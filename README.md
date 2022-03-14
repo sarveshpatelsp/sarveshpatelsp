@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://sarveshpatelsp.io)
 <h1 align="center">Hello there👋, I'm Sarvesh Patel (aka Akku)</h1>
-<h3 align="center"> a student of Btech from the Computer Science Branch.   I am a passionate C++ developer. I live in Jabalpur.       I had started Learning DSA. And from starting days of September 2021 month I started Android Development. I am also posting about tech contents, strategies and my experiences. Apart from this I am attending webinars, listening twitter spaces and podcasts to enhance my skills. I am currently engaging myself in grooming up the technical skills and ready to devote my career in programming with full of passion. Feel free to ask me about linkedIn growth, I will help you to increase your reach in linkedIn so fast. NOTE- I am not an expert but I will sort out your query as much as possible by me.</h3>
+<h4 align="left"> <I> I am a passionate C++ developer. I am also posting about tech contents, strategies and my experiences in LinkedIn. So, feel free to ask me about linkedIn growth, I will help you to increase your reach in linkedIn so fast.<br><br> NOTE- I am not an expert, but I will sort out your query as much as possible by me.</I></h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarveshpatelsp&label=Profile%20views&color=0e75b6&style=flat" alt="sarveshpatelsp" /> </p>
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sarveshpatelsp91@gmail.com**
 
-- ⚡ Fun fact **Initially, I thought Programming is easy. But now, understood what actually it is 😂.**
+- ⚡ Fun fact <br> **Initially, I thought Programming is easy. But now, understood what actually it is 😂.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
