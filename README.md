@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/sarveshpatelsp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarveshpatelsp" height="30" width="40" /></a>
 <a href="https://fb.com/sarvesh patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarvesh patel" height="30" width="40" /></a>
 <a href="https://instagram.com/akkuuupatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akkuuupatel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sarvesh patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Sarvesh Patel" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/Sarvesh Patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Sarvesh Patel" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sarveshpatelsp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarveshpatelsp" height="30" width="40" /></a>
 </p>
 
