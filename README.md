@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://sarveshpatelsp.io)
 <h1 align="center">Hello there👋, I'm Sarvesh Patel (aka Akku)</h1>
 <h4 align="left"> <I> I am a passionate C++ developer. I am also posting about tech contents, strategies and my experiences in LinkedIn. So, feel free to ask me about linkedIn growth, I will help you to increase your reach in linkedIn so fast.<br><br> NOTE- I am not an expert, but I will sort out your query as much as possible by me.</I></h4>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/Vnk8f29XU6GSZK8uGJ/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarveshpatelsp&label=Profile%20views&color=0e75b6&style=flat" alt="sarveshpatelsp" /> </p>
 
